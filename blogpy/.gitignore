@@ -1,2 +1,8 @@
 #virtualenv
 venv/
+
+#database
+db.sqllite3
+
+#migration
+blog/migrations/
